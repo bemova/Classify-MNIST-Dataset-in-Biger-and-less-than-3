@@ -1,4 +1,4 @@
-# We would like to train a deep network to classify MNIST dataset into two classes, deciding whether a digit in the image is greater (or equal to) or less than three (3), i.e. digit >=3 or digit<3.
+In this repository, we trained a deep network to classify MNIST dataset into two classes, deciding whether a digit in the image is greater (or equal to) or less than three (3), i.e. digit >=3 or digit<3.
 
 
 Some preprocessing should be performed on data first (all in Tensorflow and pytorch):
