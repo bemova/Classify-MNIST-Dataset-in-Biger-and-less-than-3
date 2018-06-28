@@ -1,0 +1,120 @@
+for three layer.
+
+Currently on step 2900
+Accuracy is:
+0.9174
+Execution time for 3 convolutional layers is: 6531.145233154297
+
+$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$$
+
+
+
+
+/Users/arz/anaconda3/bin/python /Users/arz/Desktop/twitter/tensorflow-sample/ml_test_solution.py --con_layer_count 3
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+################# Training is started for three convolutional layers #################
+WARNING:tensorflow:From /Users/arz/Desktop/twitter/tensorflow-sample/ml_test_solution.py:120: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See tf.nn.softmax_cross_entropy_with_logits_v2.
+
+2018-06-19 18:29:16.232734: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+Currently on step 0
+Accuracy is:
+0.3147
+Currently on step 100
+Accuracy is:
+0.6853
+Currently on step 200
+Accuracy is:
+0.6853
+Currently on step 300
+Accuracy is:
+0.6853
+Currently on step 400
+Accuracy is:
+0.6853
+Currently on step 500
+Accuracy is:
+0.6853
+Currently on step 600
+Accuracy is:
+0.6859
+Currently on step 700
+Accuracy is:
+0.7314
+Currently on step 800
+Accuracy is:
+0.7249
+Currently on step 900
+Accuracy is:
+0.7848
+Currently on step 1000
+Accuracy is:
+0.8039
+Currently on step 1100
+Accuracy is:
+0.8311
+Currently on step 1200
+Accuracy is:
+0.8119
+Currently on step 1300
+Accuracy is:
+0.8247
+Currently on step 1400
+Accuracy is:
+0.8774
+Currently on step 1500
+Accuracy is:
+0.8527
+Currently on step 1600
+Accuracy is:
+0.8261
+Currently on step 1700
+Accuracy is:
+0.8729
+Currently on step 1800
+Accuracy is:
+0.8813
+Currently on step 1900
+Accuracy is:
+0.8701
+Currently on step 2000
+Accuracy is:
+0.8724
+Currently on step 2100
+Accuracy is:
+0.8849
+Currently on step 2200
+Accuracy is:
+0.8929
+Currently on step 2300
+Accuracy is:
+0.8862
+Currently on step 2400
+Accuracy is:
+0.9045
+Currently on step 2500
+Accuracy is:
+0.8876
+Currently on step 2600
+Accuracy is:
+0.9137
+Currently on step 2700
+Accuracy is:
+0.9013
+Currently on step 2800
+Accuracy is:
+0.9051
+Currently on step 2900
+Accuracy is:
+0.9174
+Execution time for 3 convolutional layers is: 6531.145233154297
+
+Process finished with exit code 0

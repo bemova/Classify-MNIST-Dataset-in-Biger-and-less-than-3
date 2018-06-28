@@ -1,0 +1,159 @@
+/Users/arz/anaconda3/bin/python /Users/arz/Desktop/twitter/tensorflow-sample/pytorch_samples/pytorch_solution.py --con_layer_count 3
+################# Training is started for three convolutional layers #################
+Epoch: 1
+[1,     1] loss: 0.001
+[1,   501] loss: 0.633
+[1,  1001] loss: 0.623
+[1,  1501] loss: 0.618
+Epoch: 2
+[2,     1] loss: 0.001
+[2,   501] loss: 0.615
+[2,  1001] loss: 0.614
+[2,  1501] loss: 0.622
+Epoch: 3
+[3,     1] loss: 0.001
+[3,   501] loss: 0.607
+[3,  1001] loss: 0.597
+[3,  1501] loss: 0.575
+Epoch: 4
+[4,     1] loss: 0.001
+[4,   501] loss: 0.445
+[4,  1001] loss: 0.369
+[4,  1501] loss: 0.326
+Epoch: 5
+[5,     1] loss: 0.001
+[5,   501] loss: 0.277
+[5,  1001] loss: 0.253
+[5,  1501] loss: 0.243
+Epoch: 6
+[6,     1] loss: 0.000
+[6,   501] loss: 0.213
+[6,  1001] loss: 0.197
+[6,  1501] loss: 0.190
+Epoch: 7
+[7,     1] loss: 0.001
+[7,   501] loss: 0.172
+[7,  1001] loss: 0.157
+[7,  1501] loss: 0.145
+Epoch: 8
+[8,     1] loss: 0.000
+[8,   501] loss: 0.137
+[8,  1001] loss: 0.126
+[8,  1501] loss: 0.130
+Epoch: 9
+[9,     1] loss: 0.000
+[9,   501] loss: 0.120
+[9,  1001] loss: 0.116
+[9,  1501] loss: 0.114
+Epoch: 10
+[10,     1] loss: 0.000
+[10,   501] loss: 0.100
+[10,  1001] loss: 0.105
+[10,  1501] loss: 0.104
+Epoch: 11
+[11,     1] loss: 0.000
+[11,   501] loss: 0.096
+[11,  1001] loss: 0.092
+[11,  1501] loss: 0.094
+Epoch: 12
+[12,     1] loss: 0.000
+[12,   501] loss: 0.086
+[12,  1001] loss: 0.088
+[12,  1501] loss: 0.087
+Epoch: 13
+[13,     1] loss: 0.000
+[13,   501] loss: 0.086
+[13,  1001] loss: 0.082
+[13,  1501] loss: 0.075
+Epoch: 14
+[14,     1] loss: 0.000
+[14,   501] loss: 0.078
+[14,  1001] loss: 0.081
+[14,  1501] loss: 0.071
+Epoch: 15
+[15,     1] loss: 0.000
+[15,   501] loss: 0.072
+[15,  1001] loss: 0.073
+[15,  1501] loss: 0.069
+Epoch: 16
+[16,     1] loss: 0.000
+[16,   501] loss: 0.069
+[16,  1001] loss: 0.068
+[16,  1501] loss: 0.071
+Epoch: 17
+[17,     1] loss: 0.000
+[17,   501] loss: 0.069
+[17,  1001] loss: 0.069
+[17,  1501] loss: 0.063
+Epoch: 18
+[18,     1] loss: 0.000
+[18,   501] loss: 0.066
+[18,  1001] loss: 0.062
+[18,  1501] loss: 0.065
+Epoch: 19
+[19,     1] loss: 0.000
+[19,   501] loss: 0.065
+[19,  1001] loss: 0.061
+[19,  1501] loss: 0.062
+Epoch: 20
+[20,     1] loss: 0.000
+[20,   501] loss: 0.062
+[20,  1001] loss: 0.062
+[20,  1501] loss: 0.062
+Epoch: 21
+[21,     1] loss: 0.000
+[21,   501] loss: 0.056
+[21,  1001] loss: 0.060
+[21,  1501] loss: 0.062
+Epoch: 22
+[22,     1] loss: 0.000
+[22,   501] loss: 0.053
+[22,  1001] loss: 0.062
+[22,  1501] loss: 0.060
+Epoch: 23
+[23,     1] loss: 0.000
+[23,   501] loss: 0.060
+[23,  1001] loss: 0.055
+[23,  1501] loss: 0.053
+Epoch: 24
+[24,     1] loss: 0.000
+[24,   501] loss: 0.056
+[24,  1001] loss: 0.058
+[24,  1501] loss: 0.057
+Epoch: 25
+[25,     1] loss: 0.001
+[25,   501] loss: 0.053
+[25,  1001] loss: 0.057
+[25,  1501] loss: 0.052
+Epoch: 26
+[26,     1] loss: 0.000
+[26,   501] loss: 0.054
+[26,  1001] loss: 0.057
+[26,  1501] loss: 0.052
+Epoch: 27
+[27,     1] loss: 0.000
+[27,   501] loss: 0.054
+[27,  1001] loss: 0.053
+[27,  1501] loss: 0.051
+Epoch: 28
+[28,     1] loss: 0.000
+[28,   501] loss: 0.056
+[28,  1001] loss: 0.050
+[28,  1501] loss: 0.053
+Epoch: 29
+[29,     1] loss: 0.000
+[29,   501] loss: 0.053
+[29,  1001] loss: 0.051
+[29,  1501] loss: 0.052
+Epoch: 30
+[30,     1] loss: 0.000
+[30,   501] loss: 0.054
+[30,  1001] loss: 0.052
+[30,  1501] loss: 0.049
+Finished Training
+Training time is: 199.4910478591919
+Accuracy of the network on the test images: 93 %
+Testing is Done!
+Testing time is: 0.7219820022583008
+
+Process finished with exit code 0

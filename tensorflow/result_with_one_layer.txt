@@ -1,0 +1,69 @@
+/Users/arz/anaconda3/bin/python /Users/arz/Desktop/twitter/tensorflow-sample/ml_test_solution.py --con_layer_count 1
+Extracting MNIST_data/train-images-idx3-ubyte.gz
+Extracting MNIST_data/train-labels-idx1-ubyte.gz
+Extracting MNIST_data/t10k-images-idx3-ubyte.gz
+Extracting MNIST_data/t10k-labels-idx1-ubyte.gz
+################# Training is started for one convolutional layer #################
+WARNING:tensorflow:From /Users/arz/Desktop/twitter/tensorflow-sample/ml_test_solution.py:224: softmax_cross_entropy_with_logits (from tensorflow.python.ops.nn_ops) is deprecated and will be removed in a future version.
+Instructions for updating:
+
+Future major versions of TensorFlow will allow gradients to flow
+into the labels input on backprop by default.
+
+See tf.nn.softmax_cross_entropy_with_logits_v2.
+
+2018-06-19 22:51:38.034533: I tensorflow/core/platform/cpu_feature_guard.cc:137] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2 FMA
+Currently on step 0
+Accuracy is:
+0.3147
+Currently on step 100
+Accuracy is:
+0.315
+Currently on step 200
+Accuracy is:
+0.6853
+Currently on step 300
+Accuracy is:
+0.6853
+Currently on step 400
+Accuracy is:
+0.6853
+Currently on step 500
+Accuracy is:
+0.6853
+Currently on step 600
+Accuracy is:
+0.6853
+Currently on step 700
+Accuracy is:
+0.6853
+Currently on step 800
+Accuracy is:
+0.6853
+Currently on step 900
+Accuracy is:
+0.6853
+Currently on step 1000
+Accuracy is:
+0.6853
+Currently on step 1100
+Accuracy is:
+0.6853
+Currently on step 1200
+Accuracy is:
+0.6855
+Currently on step 1300
+Accuracy is:
+0.6865
+Currently on step 1400
+Accuracy is:
+0.6881
+Currently on step 1500
+Accuracy is:
+0.6986
+Currently on step 1600
+Accuracy is:
+0.6946
+Currently on step 1700
+Accuracy is:
+0.6998
